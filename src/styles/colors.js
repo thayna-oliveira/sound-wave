@@ -1,5 +1,5 @@
 export const colors = {
-  light1: "#ffffff",
+  light1: "#FCFCFC",
   light2: "#F8F8F8",
   light3: "#F3F3F3",
   light4: "#EDEDED",

@@ -4,6 +4,7 @@ import {colors} from "../../styles";
 const Wrapper = styled.div`
   text-align: left;
   font-size: 18px;
+  margin-bottom: 26px;
 `;
 
 const Title = styled.h3`
